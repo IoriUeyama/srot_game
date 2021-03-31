@@ -1,0 +1,2 @@
+# srot_game
+簡単なスロットのようなゲームをProcessingで作成
